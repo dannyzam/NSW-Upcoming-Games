@@ -3,7 +3,7 @@ layout: post
 title: Lovers in a Dangerous Spacetime
 subtitle: 3 de Octubre
 description: 3 de Octubre
-image: assets/images/lovers-spacetime.jpg
+image: assets/images/lovers-spacetime.png
 ---
 
 
