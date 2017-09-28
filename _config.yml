@@ -1,5 +1,5 @@
 # site settings
-title: Nintendo Switch Próximos Lanzamientos
+title: Lanzamientos Nintendo Switch 
 subtitle: Octubre 2017
 email: dannyzam.bit@gmail.com
 description: Lista de juegos de Nintendo Switch<br /> durante el mes de Octubre.
@@ -7,26 +7,17 @@ baseurl: "/NSW-Upcoming-Games" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: México
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 10
+tiles-count: 20
 
 # social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
 twitter_url: https://twitter.com/nindose
 
 # build settings
