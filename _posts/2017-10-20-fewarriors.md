@@ -6,6 +6,13 @@ description: 20 de Octubre
 image: assets/images/fewarriors.jpg
 ---
 
+
+| Fecha de Salida       | 20 de Octubre          |
+| ------------- |:-------------:|
+| Género    | Acción | $1600 |
+| Jugadores    | 1 a 2      |
+| Tamaño de descarga | 14 GB      |
+
 Lucha contra legiones de fieros soldados y feroces monstruos en la piel de Marth, Xander, Corrin y otros héroes de Fire Emblem para desatar potentes y exorbitantes ataques al estilo Dynasty Warriors.
 
 Toma el control de personajes originales de Fire Emblem bien conocidos, da órdenes durante la batalla, combina héroes para que ejecuten alucinante ataques, y muchas cosas más.
