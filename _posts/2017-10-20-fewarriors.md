@@ -9,7 +9,7 @@ image: assets/images/fewarriors.jpg
 
 | Fecha de Salida       | 20 de Octubre          |
 | ------------- |:-------------:|
-| Género    | Acción | $1600 |
+| Género    | Acción |
 | Jugadores    | 1 a 2      |
 | Tamaño de descarga | 14 GB      |
 
