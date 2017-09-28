@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fire Emblem Warriors
+subtitle: 20 de Octubre
 description: 20 de Octubre
 image: assets/images/fewarriors.jpg
 ---
