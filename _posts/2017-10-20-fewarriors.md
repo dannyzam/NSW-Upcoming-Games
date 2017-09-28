@@ -12,9 +12,7 @@ Toma el control de personajes originales de Fire Emblem bien conocidos, da órde
 Desbloquea nuevos héroes jugables, cada uno con sus propios movimientos únicos, ataques especiales, tipos de armas y diálogos hablados* en este juego de acción a gran escala de los creadores de Hyrule Warriors.
 <html>
 <body>
-
-[![Tráiler](https://dannyzam.github.io/NSW-Upcoming-Games/assets/images/fewarriors.jpg)](http://www.youtube.com/watch?v=u9bqSTOh3G8)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9bqSTOh3G8" frameborder="0" allowfullscreen></iframe>
 <p><a href="http://amzn.to/2wZA38j">
 <img border="0" alt="W3Schools" src="http://z1j7thc74bhqz3uk.zippykid.netdna-cdn.com/wp-content/uploads/2016/02/boton-amazon.png" height="80">
 </a>
