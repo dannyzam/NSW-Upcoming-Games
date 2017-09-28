@@ -2,7 +2,7 @@
 layout: post
 title: Fire Emblem Warriors
 description: 20 de Octubre
-image: assets/images/pic01.jpg
+image: assets/images/fewarriors.jpg
 ---
 
 Lucha contra legiones de fieros soldados y feroces monstruos en la piel de Marth, Xander, Corrin y otros héroes de Fire Emblem para desatar potentes y exorbitantes ataques al estilo Dynasty Warriors.
