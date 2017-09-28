@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nights of Azure 2: Bride of the New Moon
+title: Nights of Azure 2 Bride of the New Moon
 subtitle: 24 de Octubre
 description: 24 de Octubre
 image: assets/images/azure2.jpg
