@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Super Mario Odyssey
-description: La nueva aventura de Mario
+description: 27 de Octubre
 image: assets/images/smo.jpg
 ---
 
