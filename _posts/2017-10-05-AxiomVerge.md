@@ -3,7 +3,7 @@ layout: post
 title: Axiom Verge
 subtitle: 5 de Octubre
 description: 5 de Octubre
-image: assets/images/axiom verge.jpg
+image: assets/images/axiomverge.jpg
 ---
 
 
